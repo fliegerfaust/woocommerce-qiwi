@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Visa QIWI Wallet for the WooCommerce
-Plugin URI: https://github.com/Edel-und-weiss/woocommerce-qiwi-plugin
+Plugin URI: https://github.com/fliegerfaust/woocommerce-qiwi
 Version: 0.0.3
 Author: Denis Bezik
 Author URI: denis.bezik@gmail.com
